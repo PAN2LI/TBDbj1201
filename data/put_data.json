@@ -1,0 +1,15 @@
+{
+  "dep_id": "T01",
+  "put_data": {
+    "data": [
+      {
+        "dep_id": "T01",
+        "dep_name": "Test学院_update",
+        "master_name": "Test-Master_update",
+        "slogan": "Here is Slogan_update"
+      }
+    ]
+  },
+  "status_code": 200,
+  "expect": "Test学院_update"
+}

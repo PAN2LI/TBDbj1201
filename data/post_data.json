@@ -1,0 +1,14 @@
+{
+  "post_data": {
+    "data": [
+      {
+        "dep_id": "T01",
+        "dep_name": "Test学院",
+        "master_name": "Test-Master",
+        "slogan": "Here is Slogan"
+      }
+    ]
+  },
+  "status_code": 201,
+  "expect_result": 1
+}
